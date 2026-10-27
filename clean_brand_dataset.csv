@@ -1,0 +1,105 @@
+keyword,position,title,price,raw_price,rating,reviews,platform,delivery,brand,visibility_score,price_range,discount_pct
+iphone,32,OnePlus Plus,6999.0,6999.0,4.5,120.0,Walmart,Free Delivery,Oneplus,0.0312,Mid-Range (1000-10000),0.0
+smartwatch,50,Boat Plus,1999.0,5999.0,4.5,120.0,Myntra,Prime,Boat,0.02,Mid-Range (1000-10000),66.68
+smartwatch,58,Sony Air,1999.0,5999.0,4.5,120.0,Flipkart,Free Delivery,Sony,0.0172,Mid-Range (1000-10000),66.68
+shoes,21,OnePlus Max,2499.0,2999.0,4.5,45.0,Amazon,Free Delivery,Oneplus,0.0476,Mid-Range (1000-10000),16.67
+shoes,5,Noise Plus,1999.0,6999.0,4.5,120.0,Amazon,Paid,Noise,0.2,Mid-Range (1000-10000),71.44
+iphone,18,Samsung Lite,6999.0,5999.0,4.5,120.0,Walmart,Free Delivery,Samsung,0.0556,Mid-Range (1000-10000),0.0
+smartwatch,28,Noise Air,3999.0,5999.0,5.0,120.0,Myntra,Free Delivery,Noise,0.0357,Mid-Range (1000-10000),33.34
+shoes,22,Apple Lite,2499.0,2999.0,4.5,45.0,Amazon,Prime,Apple,0.0455,Mid-Range (1000-10000),16.67
+shoes,21,Samsung Plus,2499.0,5999.0,4.5,999.0,Walmart,Free Delivery,Samsung,0.0476,Mid-Range (1000-10000),58.34
+laptop,1,Apple Max,2499.0,5999.0,4.5,120.0,Amazon,Free Delivery,Apple,1.0,Mid-Range (1000-10000),58.34
+shoes,5,Boat Air,2499.0,6999.0,4.5,45.0,Flipkart,Free Delivery,Boat,0.2,Mid-Range (1000-10000),64.29
+shoes,41,OnePlus Lite,1999.0,6999.0,5.0,45.0,Myntra,Free Delivery,Oneplus,0.0244,Mid-Range (1000-10000),71.44
+laptop,12,Noise Max,6999.0,2999.0,4.5,120.0,Amazon,Paid,Noise,0.0833,Mid-Range (1000-10000),0.0
+shoes,26,OnePlus Lite,6999.0,5999.0,4.5,45.0,Flipkart,Prime,Oneplus,0.0385,Mid-Range (1000-10000),0.0
+iphone,34,Sony Max,3999.0,6999.0,3.9,120.0,Walmart,Free Delivery,Sony,0.0294,Mid-Range (1000-10000),42.86
+smartwatch,14,Samsung Lite,3999.0,5999.0,3.9,999.0,Amazon,Paid,Samsung,0.0714,Mid-Range (1000-10000),33.34
+smartwatch,9,Samsung Plus,3999.0,6999.0,4.5,45.0,Walmart,Prime,Samsung,0.1111,Mid-Range (1000-10000),42.86
+shoes,47,OnePlus Plus,2499.0,2999.0,4.5,120.0,Amazon,Prime,Oneplus,0.0213,Mid-Range (1000-10000),16.67
+iphone,57,Boat Pro,2499.0,6999.0,4.5,45.0,Walmart,nan,Boat,0.0175,Mid-Range (1000-10000),64.29
+shoes,22,OnePlus Air,2499.0,2999.0,5.0,120.0,Amazon,nan,Oneplus,0.0455,Mid-Range (1000-10000),16.67
+iphone,30,OnePlus Plus,3999.0,5999.0,5.0,45.0,Flipkart,nan,Oneplus,0.0333,Mid-Range (1000-10000),33.34
+smartwatch,43,Samsung Air,2499.0,6999.0,4.5,999.0,Myntra,Paid,Samsung,0.0233,Mid-Range (1000-10000),64.29
+iphone,17,Samsung Lite,2499.0,5999.0,4.5,999.0,Flipkart,Free Delivery,Samsung,0.0588,Mid-Range (1000-10000),58.34
+smartwatch,36,Apple Plus,3999.0,5999.0,5.0,120.0,Amazon,Free Delivery,Apple,0.0278,Mid-Range (1000-10000),33.34
+iphone,1,Sony Air,2499.0,2999.0,4.5,999.0,Amazon,Prime,Sony,1.0,Mid-Range (1000-10000),16.67
+iphone,8,Sony Air,6999.0,5999.0,3.9,120.0,Flipkart,nan,Sony,0.125,Mid-Range (1000-10000),0.0
+laptop,52,Sony Pro,6999.0,5999.0,4.5,120.0,Flipkart,nan,Sony,0.0192,Mid-Range (1000-10000),0.0
+iphone,15,Sony Plus,2499.0,5999.0,3.9,120.0,Myntra,Free Delivery,Sony,0.0667,Mid-Range (1000-10000),58.34
+laptop,47,Apple Pro,6999.0,2999.0,4.5,120.0,Amazon,Prime,Apple,0.0213,Mid-Range (1000-10000),0.0
+laptop,56,Apple Pro,2499.0,5999.0,3.9,120.0,Flipkart,Prime,Apple,0.0179,Mid-Range (1000-10000),58.34
+smartwatch,22,OnePlus Max,3999.0,5999.0,4.5,120.0,Amazon,Free Delivery,Oneplus,0.0455,Mid-Range (1000-10000),33.34
+iphone,28,Apple Max,6999.0,2999.0,4.5,999.0,Flipkart,Prime,Apple,0.0357,Mid-Range (1000-10000),0.0
+shoes,14,Samsung Pro,1999.0,2999.0,4.5,120.0,Myntra,Prime,Samsung,0.0714,Mid-Range (1000-10000),33.34
+iphone,24,OnePlus Pro,1999.0,2999.0,4.5,120.0,Walmart,Free Delivery,Oneplus,0.0417,Mid-Range (1000-10000),33.34
+smartwatch,2,OnePlus Air,3999.0,2999.0,4.5,120.0,Amazon,nan,Oneplus,0.5,Mid-Range (1000-10000),0.0
+laptop,45,Apple Plus,2499.0,2999.0,4.5,999.0,Flipkart,nan,Apple,0.0222,Mid-Range (1000-10000),16.67
+iphone,26,Boat Lite,3999.0,5999.0,4.5,120.0,Walmart,Free Delivery,Boat,0.0385,Mid-Range (1000-10000),33.34
+shoes,14,Noise Max,3999.0,6999.0,5.0,45.0,Flipkart,Free Delivery,Noise,0.0714,Mid-Range (1000-10000),42.86
+smartwatch,59,Boat Pro,3999.0,5999.0,4.5,120.0,Myntra,nan,Boat,0.0169,Mid-Range (1000-10000),33.34
+iphone,56,Boat Plus,3999.0,2999.0,5.0,45.0,Amazon,Prime,Boat,0.0179,Mid-Range (1000-10000),0.0
+shoes,3,Samsung Max,2499.0,5999.0,3.9,120.0,Walmart,Free Delivery,Samsung,0.3333,Mid-Range (1000-10000),58.34
+smartwatch,47,Apple Air,1999.0,5999.0,4.5,120.0,Amazon,Free Delivery,Apple,0.0213,Mid-Range (1000-10000),66.68
+laptop,46,Sony Max,2499.0,6999.0,4.5,999.0,Amazon,Free Delivery,Sony,0.0217,Mid-Range (1000-10000),64.29
+shoes,43,Apple Lite,1999.0,6999.0,5.0,120.0,Walmart,Prime,Apple,0.0233,Mid-Range (1000-10000),71.44
+iphone,47,Sony Lite,6999.0,5999.0,4.5,120.0,Amazon,Paid,Sony,0.0213,Mid-Range (1000-10000),0.0
+iphone,45,Noise Plus,2499.0,5999.0,5.0,120.0,Flipkart,nan,Noise,0.0222,Mid-Range (1000-10000),58.34
+shoes,38,Sony Max,1999.0,6999.0,4.5,120.0,Flipkart,nan,Sony,0.0263,Mid-Range (1000-10000),71.44
+iphone,35,Boat Lite,6999.0,5999.0,3.9,120.0,Walmart,Prime,Boat,0.0286,Mid-Range (1000-10000),0.0
+laptop,15,Sony Pro,1999.0,6999.0,4.5,120.0,Amazon,nan,Sony,0.0667,Mid-Range (1000-10000),71.44
+shoes,28,Noise Max,2499.0,2999.0,3.9,999.0,Myntra,nan,Noise,0.0357,Mid-Range (1000-10000),16.67
+shoes,39,Apple Pro,3999.0,5999.0,5.0,120.0,Amazon,Paid,Apple,0.0256,Mid-Range (1000-10000),33.34
+laptop,17,Boat Pro,1999.0,5999.0,3.9,120.0,Walmart,Free Delivery,Boat,0.0588,Mid-Range (1000-10000),66.68
+smartwatch,39,OnePlus Plus,1999.0,2999.0,5.0,120.0,Amazon,Paid,Oneplus,0.0256,Mid-Range (1000-10000),33.34
+smartwatch,25,Apple Max,1999.0,6999.0,4.5,45.0,Flipkart,Prime,Apple,0.04,Mid-Range (1000-10000),71.44
+iphone,20,OnePlus Pro,2499.0,6999.0,5.0,999.0,Myntra,nan,Oneplus,0.05,Mid-Range (1000-10000),64.29
+smartwatch,25,Noise Pro,3999.0,5999.0,4.5,120.0,Flipkart,Prime,Noise,0.04,Mid-Range (1000-10000),33.34
+laptop,4,Samsung Lite,1999.0,2999.0,4.5,45.0,Flipkart,Prime,Samsung,0.25,Mid-Range (1000-10000),33.34
+laptop,18,Apple Air,3999.0,6999.0,4.5,999.0,Amazon,Prime,Apple,0.0556,Mid-Range (1000-10000),42.86
+smartwatch,22,Boat Air,6999.0,5999.0,4.5,120.0,Flipkart,Paid,Boat,0.0455,Mid-Range (1000-10000),0.0
+iphone,34,Sony Lite,2499.0,2999.0,4.5,120.0,Walmart,nan,Sony,0.0294,Mid-Range (1000-10000),16.67
+smartwatch,8,Boat Max,2499.0,5999.0,4.5,45.0,Amazon,nan,Boat,0.125,Mid-Range (1000-10000),58.34
+laptop,44,Noise Max,1999.0,2999.0,4.5,45.0,Flipkart,Paid,Noise,0.0227,Mid-Range (1000-10000),33.34
+iphone,41,Noise Plus,3999.0,5999.0,4.5,45.0,Amazon,Free Delivery,Noise,0.0244,Mid-Range (1000-10000),33.34
+iphone,37,Boat Lite,2499.0,6999.0,3.9,120.0,Myntra,Free Delivery,Boat,0.027,Mid-Range (1000-10000),64.29
+smartwatch,52,OnePlus Max,6999.0,6999.0,3.9,999.0,Flipkart,Paid,Oneplus,0.0192,Mid-Range (1000-10000),0.0
+iphone,26,Samsung Max,1999.0,5999.0,3.9,120.0,Amazon,nan,Samsung,0.0385,Mid-Range (1000-10000),66.68
+smartwatch,59,OnePlus Pro,6999.0,5999.0,4.5,45.0,Myntra,nan,Oneplus,0.0169,Mid-Range (1000-10000),0.0
+iphone,37,Noise Air,2499.0,5999.0,5.0,45.0,Flipkart,Prime,Noise,0.027,Mid-Range (1000-10000),58.34
+laptop,33,Samsung Pro,2499.0,5999.0,5.0,120.0,Amazon,Prime,Samsung,0.0303,Mid-Range (1000-10000),58.34
+shoes,53,OnePlus Lite,3999.0,2999.0,4.5,45.0,Amazon,Paid,Oneplus,0.0189,Mid-Range (1000-10000),0.0
+smartwatch,22,Apple Air,2499.0,5999.0,4.5,999.0,Flipkart,Paid,Apple,0.0455,Mid-Range (1000-10000),58.34
+shoes,6,Sony Plus,1999.0,5999.0,4.5,999.0,Flipkart,Free Delivery,Sony,0.1667,Mid-Range (1000-10000),66.68
+laptop,55,Apple Max,3999.0,6999.0,3.9,45.0,Amazon,nan,Apple,0.0182,Mid-Range (1000-10000),42.86
+laptop,48,Boat Max,1999.0,5999.0,3.9,120.0,Flipkart,Prime,Boat,0.0208,Mid-Range (1000-10000),66.68
+laptop,11,Apple Lite,6999.0,2999.0,4.5,45.0,Flipkart,Prime,Apple,0.0909,Mid-Range (1000-10000),0.0
+shoes,30,Noise Lite,6999.0,5999.0,4.5,45.0,Walmart,Paid,Noise,0.0333,Mid-Range (1000-10000),0.0
+laptop,3,Samsung Max,6999.0,5999.0,4.5,120.0,Amazon,Paid,Samsung,0.3333,Mid-Range (1000-10000),0.0
+iphone,51,Sony Pro,2499.0,5999.0,4.5,120.0,Flipkart,nan,Sony,0.0196,Mid-Range (1000-10000),58.34
+shoes,37,Noise Plus,6999.0,2999.0,4.5,120.0,Walmart,Prime,Noise,0.027,Mid-Range (1000-10000),0.0
+iphone,31,OnePlus Max,1999.0,6999.0,4.5,999.0,Flipkart,Prime,Oneplus,0.0323,Mid-Range (1000-10000),71.44
+shoes,4,Sony Lite,1999.0,5999.0,4.5,120.0,Flipkart,Paid,Sony,0.25,Mid-Range (1000-10000),66.68
+iphone,15,Sony Max,6999.0,2999.0,4.5,120.0,Flipkart,Prime,Sony,0.0667,Mid-Range (1000-10000),0.0
+laptop,49,OnePlus Lite,2499.0,5999.0,5.0,999.0,Myntra,Prime,Oneplus,0.0204,Mid-Range (1000-10000),58.34
+iphone,57,Sony Plus,6999.0,5999.0,4.5,120.0,Flipkart,Free Delivery,Sony,0.0175,Mid-Range (1000-10000),0.0
+smartwatch,2,Apple Plus,6999.0,6999.0,3.9,120.0,Amazon,nan,Apple,0.5,Mid-Range (1000-10000),0.0
+laptop,11,Apple Lite,3999.0,6999.0,4.5,999.0,Flipkart,Prime,Apple,0.0909,Mid-Range (1000-10000),42.86
+laptop,20,Apple Plus,1999.0,5999.0,4.5,120.0,Walmart,Prime,Apple,0.05,Mid-Range (1000-10000),66.68
+shoes,49,OnePlus Air,1999.0,5999.0,4.5,45.0,Myntra,Paid,Oneplus,0.0204,Mid-Range (1000-10000),66.68
+laptop,14,Samsung Air,1999.0,2999.0,3.9,120.0,Walmart,Prime,Samsung,0.0714,Mid-Range (1000-10000),33.34
+iphone,36,Noise Air,1999.0,6999.0,4.5,120.0,Amazon,Paid,Noise,0.0278,Mid-Range (1000-10000),71.44
+smartwatch,13,Samsung Pro,3999.0,5999.0,4.5,120.0,Myntra,Paid,Samsung,0.0769,Mid-Range (1000-10000),33.34
+laptop,40,Samsung Plus,1999.0,6999.0,3.9,45.0,Flipkart,Paid,Samsung,0.025,Mid-Range (1000-10000),71.44
+shoes,20,Noise Pro,2499.0,5999.0,5.0,120.0,Myntra,nan,Noise,0.05,Mid-Range (1000-10000),58.34
+laptop,9,Sony Plus,3999.0,5999.0,4.5,120.0,Flipkart,Free Delivery,Sony,0.1111,Mid-Range (1000-10000),33.34
+laptop,24,Boat Lite,1999.0,2999.0,4.5,120.0,Flipkart,Free Delivery,Boat,0.0417,Mid-Range (1000-10000),33.34
+shoes,55,Sony Pro,3999.0,5999.0,4.5,120.0,Amazon,Free Delivery,Sony,0.0182,Mid-Range (1000-10000),33.34
+smartwatch,31,Noise Lite,2499.0,2999.0,4.5,120.0,Walmart,nan,Noise,0.0323,Mid-Range (1000-10000),16.67
+shoes,5,Samsung Air,3999.0,6999.0,3.9,120.0,Amazon,nan,Samsung,0.2,Mid-Range (1000-10000),42.86
+shoes,44,Sony Lite,3999.0,5999.0,4.5,120.0,Myntra,nan,Sony,0.0227,Mid-Range (1000-10000),33.34
+laptop,56,OnePlus Air,6999.0,5999.0,4.5,120.0,Flipkart,Prime,Oneplus,0.0179,Mid-Range (1000-10000),0.0
+laptop,29,Apple Pro,1999.0,2999.0,3.9,999.0,Flipkart,Prime,Apple,0.0345,Mid-Range (1000-10000),33.34
+laptop,11,Boat Plus,6999.0,6999.0,3.9,120.0,Myntra,Prime,Boat,0.0909,Mid-Range (1000-10000),0.0
+smartwatch,4,Boat Pro,6999.0,5999.0,4.5,999.0,Flipkart,Paid,Boat,0.25,Mid-Range (1000-10000),0.0
+shoes,53,Boat Air,3999.0,5999.0,5.0,45.0,Myntra,Free Delivery,Boat,0.0189,Mid-Range (1000-10000),33.34
